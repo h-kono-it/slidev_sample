@@ -1,4 +1,4 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Welcome to [sampleサイト](https://h-kono-it.github.io/slidev_sample)!
 
 To start the slide show:
 
